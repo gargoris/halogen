@@ -10,6 +10,7 @@ output
 =======
 /.*
 !/.gitignore
+!/.travis.yml
 /bower_components/
 /node_modules/
 /output/
