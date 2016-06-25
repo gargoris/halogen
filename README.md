@@ -4,6 +4,8 @@ A test project for halgoen-purescript
 =======
 # purescript-halogen-template
 
+[![Dependency Status](https://www.versioneye.com/user/projects/576ebffc6f9c59003d351060/badge.svg?style=flat-square)](https://www.versioneye.com/user/projects/576ebffc6f9c59003d351060)
+
 This is a template for starting a fresh project using the [purescript-halogen](https://github.com/slamdata/purescript-halogen) library for declarative user interfaces.
 
 ## Prerequisites
@@ -55,7 +57,7 @@ This is an alias for the Pulp command:
 pulp browserify --to dist/app.js
 ```
 
-If you open `dist/index.html` you should now have a basic working Halogen app. 
+If you open `dist/index.html` you should now have a basic working Halogen app.
 
 That's pretty much it. Have fun with Halogen!
 >>>>>>> Initial commit
